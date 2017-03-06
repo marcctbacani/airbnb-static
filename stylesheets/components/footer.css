@@ -1,0 +1,25 @@
+/* line 1, /home/marcctbacani/code/marcctbacani/airbnb-static/source/stylesheets/components/footer.scss */
+#footer {
+  background: #333333;
+  padding: 30px 0;
+  color: #CCCCCC; }
+
+/* line 6, /home/marcctbacani/code/marcctbacani/airbnb-static/source/stylesheets/components/footer.scss */
+#footer p {
+  margin-top: 17px; }
+
+/* line 9, /home/marcctbacani/code/marcctbacani/airbnb-static/source/stylesheets/components/footer.scss */
+#footer ul {
+  margin-top: 10px; }
+
+/* line 12, /home/marcctbacani/code/marcctbacani/airbnb-static/source/stylesheets/components/footer.scss */
+#footer a {
+  color: #CCCCCC;
+  font-size: 30px;
+  letter-spacing: 20px;
+  -webkit-transition: color 0.5s ease;
+  transition: color 0.5s ease; }
+
+/* line 18, /home/marcctbacani/code/marcctbacani/airbnb-static/source/stylesheets/components/footer.scss */
+#footer a:hover {
+  color: yellow; }

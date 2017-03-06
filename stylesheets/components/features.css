@@ -1,0 +1,13 @@
+/* line 2, /home/marcctbacani/code/marcctbacani/airbnb-static/source/stylesheets/components/features.scss */
+.features img {
+  width: 75px; }
+
+/* line 5, /home/marcctbacani/code/marcctbacani/airbnb-static/source/stylesheets/components/features.scss */
+.features h2 {
+  font-size: 20px;
+  margin-bottom: 10px; }
+
+/* line 9, /home/marcctbacani/code/marcctbacani/airbnb-static/source/stylesheets/components/features.scss */
+.features p {
+  font-size: 15px;
+  font-weight: lighter; }

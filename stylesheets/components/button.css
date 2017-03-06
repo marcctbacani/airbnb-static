@@ -1,0 +1,16 @@
+/* line 1, /home/marcctbacani/code/marcctbacani/airbnb-static/source/stylesheets/components/button.scss */
+.btn-green {
+  color: white;
+  padding: 25px 35px;
+  border-radius: 50px;
+  font-weight: bold;
+  font-size: 20px;
+  background: #6AD58B;
+  -webkit-transition: background 0.3s ease;
+  transition: background 0.3s ease; }
+
+/* line 10, /home/marcctbacani/code/marcctbacani/airbnb-static/source/stylesheets/components/button.scss */
+.btn-green:hover {
+  background: #3ac162;
+  text-decoration: none;
+  color: white; }
